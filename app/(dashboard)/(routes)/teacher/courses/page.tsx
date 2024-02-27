@@ -1,9 +1,12 @@
+import Link from 'next/link'
 import React from 'react'
 
 function CoursesPage() {
   return (
     <div >
-        CoursesPage
+      <Link>
+      <Butt
+      </Link>
     </div>
   )
 }
