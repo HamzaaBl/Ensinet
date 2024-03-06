@@ -2,7 +2,9 @@ import React from 'react'
 
 function SearchPage() {
   return (
-    <div className="">SearchPage</div>
+    <div className="">
+     search page
+    </div>
   )
 }
 

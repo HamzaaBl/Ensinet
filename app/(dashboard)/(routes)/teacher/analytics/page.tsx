@@ -1,8 +1,12 @@
-import React from 'react'
+"use client";
 
 function AnalyticsPage() {
   return (
-    <div>Analytics Page</div>
+    <div>
+      
+
+Analytics page
+    </div>
   )
 }
 
